@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmatch_report_app=self.webpackChunkmatch_report_app||[]).push([[775],{775:(e,t,s)=>{s.r(t),s.d(t,{default:()=>r});var c=s(579);function r(){return(0,c.jsxs)("div",{className:"p-8 text-center",children:[(0,c.jsx)("h1",{className:"text-2xl font-bold text-red-600",children:"Access Denied"}),(0,c.jsx)("p",{children:"Your account is not authorized to view this page."})]})}}}]);
+//# sourceMappingURL=775.3ff9c0f0.chunk.js.map

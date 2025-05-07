@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmatch_report_app=self.webpackChunkmatch_report_app||[]).push([[941],{941:(e,a,r)=>{r.r(a),r.d(a,{default:()=>h});var s=r(579);function h(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h1",{className:"text-2xl font-bold mb-2",children:"Dashboard"}),(0,s.jsx)("p",{children:"This is a placeholder for the dashboard view."})]})}}}]);
+//# sourceMappingURL=941.e7e3c371.chunk.js.map

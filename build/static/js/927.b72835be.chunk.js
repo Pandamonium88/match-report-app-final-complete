@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmatch_report_app=self.webpackChunkmatch_report_app||[]).push([[927],{927:(e,r,t)=>{t.r(r),t.d(r,{default:()=>l});var a=t(579);function l(){return(0,a.jsx)("div",{className:"p-4",children:(0,a.jsx)("h1",{className:"text-2xl font-bold mb-4",children:"Complete Your Profile"})})}}}]);
+//# sourceMappingURL=927.b72835be.chunk.js.map
